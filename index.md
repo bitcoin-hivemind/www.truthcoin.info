@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Open Source Knowledge 
+title: Truthcoin Protocol on BTC
+subtitle: "Making Cheap Talk Expensive"
+
 ---
 
 ## What is Hivemind?
 
-Hivemind is a **Peer-to-Peer Oracle Protocol** which absorbs accurate data into a blockchain so that Bitcoin-users can speculate in
-**Prediction Markets**. These markets have [the potential](http://www.bitcoinhivemind.com/papers/3_PM_Applications.pdf) to revolutionize
-the emergence and diffusion of knowledge in society.
+Hivemind is a **Peer-to-Peer Oracle Protocol** which absorbs accurate data into a blockchain so that Bitcoin-users can speculate in on-chain
+**Prediction Markets**. Such markets can [revolutionize
+the emergence and diffusion of knowledge in society](http://www.bitcoinhivemind.com/papers/3_PM_Applications.pdf), by "making Cheap Talk expensive".
 
-Centralized alternatives [cannot maintain security at high scales](http://www.truthcoin.info/blog/scaling-security/) (see [Appendix 1](/papers/1_Purpose.pdf)).
+Centralized oracles/pm-marketplaces will probably [struggle to maintain secure at scale](http://www.truthcoin.info/blog/scaling-security/) (see [Appendix 1](/papers/1_Purpose.pdf)).
 
 ## What?
 
@@ -136,7 +138,7 @@ Be sure to check [**the blog**](http://bitcoinhivemind.com/archive)!
 
 And, as always, the reference material of the sidebar: the [conversations / interviews](http://bitcoinhivemind.com/talk), the [FAQ](http://bitcoinhivemind.com/faq).
 
-Currently, [the forums](http://forum.truthcoin.info/) are not very popular.
+The [forums](http://forum.truthcoin.info/) have not been popular, since I switched my focus to sidechain-enabler [Drivechain](www.drivechain.info).
 
 
 ## Contact
@@ -145,4 +147,4 @@ Email: bitcoin.hivemind /at/gmail/ (PGP: [A1FDEFA4](https://pgp.mit.edu/pks/look
 
 Check out [the web's best Bitcoin blog](http://www.truthcoin.info/).
 
-My [Twitter](https://twitter.com/BitcoinHivemind) Office Hours are 8-9 AM, 5-6 PM, and while riding in elevators.
+My [Twitter](https://twitter.com/BitcoinHivemind) Office Hours are 5-6 PM, and while riding in elevators.
