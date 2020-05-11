@@ -11,7 +11,7 @@ Hivemind is a **Peer-to-Peer Oracle Protocol** which absorbs accurate data into 
 **Prediction Markets**. Such markets can [revolutionize
 the emergence and diffusion of knowledge in society](http://www.bitcoinhivemind.com/papers/3_PM_Applications.pdf), by "making Cheap Talk expensive".
 
-Centralized oracles/pm-marketplaces will probably [struggle to maintain secure at scale](http://www.truthcoin.info/blog/scaling-security/) (see [Appendix 1](/papers/1_Purpose.pdf)).
+Centralized oracles/pm-marketplaces will probably [struggle to remain secure at scale](http://www.truthcoin.info/blog/scaling-security/) (see [Appendix 1](/papers/1_Purpose.pdf)).
 
 ## What?
 
