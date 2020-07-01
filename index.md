@@ -114,6 +114,9 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 1. <a href="/papers/5_PM_Manipulation.pdf">Manipulation of Prediction Markets</a>
 1. <a href="/papers/6_Crime_Markets.pdf">Non-Usefulness of Prediction Markets for Assassination and Crime</a>
 
+## Highlighted Applications
+
+* The Sumner-Hanson Quartet ([xlsx](/papers/sumner-hanson-quartet.xlsx), [pdf](/papers/sumner-hanson-quartet.pdf)) -- With a minimal amount of effort and start up capital, this would allow regular citizens to very precisely measure, prove/broadcast, profit-from, and repair *mistakes made by a central bank*. As a side effect it allows sound money and stable-valued money to peacefully co-exist.
 
 ## [Presentations](/presentations/)
 
