@@ -1,4 +1,3 @@
-
 ---
 title: SF Housing Futarchy Example
 show_author: true
