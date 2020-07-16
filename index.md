@@ -117,6 +117,7 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 ### Highlighted Applications
 
 * The Sumner-Hanson Quartet ([xlsx](/papers/sumner-hanson-quartet.xlsx), [pdf](/papers/sumner-hanson-quartet.pdf)) -- With a minimal effort and start-up capital, this would allow regular citizens to very precisely measure, prove/broadcast, profit-from, and repair *mistakes made by a central bank*. As a side effect it allows sound money and stable-valued money to peacefully co-exist.
+* [Rent in San Francisco](/blog/futarchy-sf-rent/) -- The concept of "Futarchy", explained via one very short blog post.
 
 ## [Presentations](/presentations/)
 
