@@ -17,9 +17,8 @@ The meta-problem (ie, "why is the rent absurdly high?") is also well-known: lack
 
 The meta-meta-problem (ie, "why is the housing supply so low?") is also well-known: restrictions on housing construction. (See ["baffling alchemy of [SF]'s rules, its housing culture, and the dispositions of San Franciscans"](https://sf.curbed.com/maps/map-sf-housing-delayed-cancelled-monster-mission-projects)).
 
-And finally, the meta-meta-meta-problem (ie, "Where did these new-housing-restrictions come from any why can't SF get rid of them?") is also well known: renters at a political disadvantage. (See ["unorganized and unorganizable"](https://www.theatlantic.com/ideas/archive/2020/02/building-enough-housing-requires-unlikely-coalition/606739/), ["home value insurance"](https://www.dartmouth.edu/~wfischel/Papers/02-03.pdf) -- and remember that SF has [more renters than owners](https://www.rentcafe.com/blog/rental-market/market-snapshots/decade-housing-trends-methodology/) and is [theoretically a democracy](https://en.wikipedia.org/wiki/Government_of_San_Francisco)).
+And finally, the meta-meta-meta-problem (ie, "Where did these new-housing-restrictions come from any why can't SF get rid of them?") is also well known: renters at a political disadvantage. (See ["unorganized and unorganizable"](https://www.theatlantic.com/ideas/archive/2020/02/building-enough-housing-requires-unlikely-coalition/606739/), ["home value insurance"](https://www.dartmouth.edu/~wfischel/Papers/02-03.pdf) -- and remember that SF has [more renters than owners](https://www.rentcafe.com/blog/rental-market/market-snapshots/decade-housing-trends-methodology/) and is [theoretically](https://www.pdx.edu/prc/sites/www.pdx.edu.prc/files/Who_Votes_for_Mayor_Sept_2015.pdf) [a democracy](https://en.wikipedia.org/wiki/Government_of_San_Francisco)).
 
-https://www.pdx.edu/prc/sites/www.pdx.edu.prc/files/Who_Votes_for_Mayor_Sept_2015.pdf
 
 But this "unorganized and unorganizable" problem, happens to be one that prediction markets can probably solve! Once the root problem is solved, all the other solutions should fall in line automatically.
 
