@@ -37,7 +37,7 @@ The "why" of this project, 50 mins.
 
 Covers the technical challenges of this project (and why other methods haven't worked).
 
-[Slides](https://www.slideshare.net/InfoQ/blockchain-the-oracle-problems). [Video](https://www.infoq.com/presentations/blockchain-oracle-problems).
+[Slides](https://www.slideshare.net/InfoQ/blockchain-the-oracle-problems) [Video](https://www.infoq.com/presentations/blockchain-oracle-problems)
 
 
 ## [What is Truthcoin?](what-is-hivemind.pdf) -- Jan 2015
